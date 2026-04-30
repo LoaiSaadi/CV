@@ -206,6 +206,15 @@ content:
           Completed a hands-on DevOps course including a full end-to-end cloud project.
         description: |
           Covered AWS, Terraform, Docker, Kubernetes, Kafka, CI/CD with GitHub Actions and Jenkins, and observability with Elasticsearch and Kibana.
+      
+      - layout: left
+        title: AWS Certified Cloud Practitioner
+        caption: 2026
+        sub_title: Amazon Web Services (AWS)
+        quote: >
+          Certified in AWS Cloud fundamentals, core services, security, pricing, and architecture best practices.
+        description: |
+          Strengthened foundational knowledge of AWS Cloud concepts, global infrastructure, IAM, billing, support plans, and common AWS services.
 
       - layout: left
         title: מחשבים - איך עובד האינטרנט?
